@@ -21,12 +21,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
 
-<img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=#40AEF0"/>
-<img src="https://img.shields.io/badge/typescript-004088?style=for-the-badge&logo=typescript&logoColor=#004088"/>
-<img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=#40AEF0"/><img src="https://img.shields.io/badge/typescript-004088?style=for-the-badge&logo=typescript&logoColor=#004088"/><img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=#ffffff"/>
-<img src="https://img.shields.io/badge/html5-FFCC22?style=for-the-badge&logo=html5&logoColor=#FF9E0F"/>
-<img src="https://img.shields.io/badge/css3-FFCC22?style=for-the-badge&logo=css3&logoColor=#FFCC22"/>
-<img src="https://img.shields.io/badge/javascript-FFCC22?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
+
+<img src="https://img.shields.io/badge/html5-FFCC22?style=for-the-badge&logo=html5&logoColor=#FF9E0F"/><img src="https://img.shields.io/badge/css3-FFCC22?style=for-the-badge&logo=css3&logoColor=#FFCC22"/><img src="https://img.shields.io/badge/javascript-FFCC22?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 
 <img src="https://img.shields.io/badge/Amazon Aws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=#FF9900"/>
