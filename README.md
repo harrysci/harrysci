@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=#000000&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=#333333&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NOTION-ff434f?style=for-the-badge&logo=#000000&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NOTION-ffffff?style={for-the-badge}&logo={#333333}&logoColor=000000"/>
 <img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=#F7DF1E&logoColor=000000"/>
-<img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=F7DF1E&logoColor=000000"/>
+<img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo={F7DF1E}&logoColor=000000"/>
 <img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=000000&logoColor=000000"/>
 
