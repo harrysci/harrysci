@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/NOTION-ffffff?style={for-the-badge}&logo=notion&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/javascript-ffffff?style={for-the-badge}&logo=javascript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/NOTION-ffffff?style={for-the-badge}&logo=notion&logoColor=#ffffff"/>
+
 <img src="https://img.shields.io/badge/react-ffffff?style={for-the-badge}&logo=react&logoColor=#40AEF0"/>
 <img src="https://img.shields.io/badge/typescript-ffffff?style={for-the-badge}&logo=typescript&logoColor=#004088"/>
+<img src="https://img.shields.io/badge/python-ffffff?style={for-the-badge}&logo=python&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/flask-ffffff?style={for-the-badge}&logo=flask&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/html-ffffff?style={for-the-badge}&logo=html&logoColor=#FF9E0F"/>
 <img src="https://img.shields.io/badge/css-ffffff?style={for-the-badge}&logo=css&logoColor=#FFCC22"/>
 <img src="https://img.shields.io/badge/javascript-ffffff?style={for-the-badge}&logo=javascript&logoColor=#F7DF1E"/>
 
-<img src="https://img.shields.io/badge/Amazon Aws-ffffff?style={for-the-badge}&logo=Amazon Aws&logoColor=#FF9900"/>
+<img src="https://img.shields.io/badge/Amazon Aws-ffffff?style={for-the-badge}&logo=AmazonAws&logoColor=#FF9900"/>
