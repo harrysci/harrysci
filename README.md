@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/NOTION-ffffff?style={for-the-badge}&logo=notion&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
 
 <img src="https://img.shields.io/badge/react-ffffff?style={for-the-badge}&logo=react&logoColor=#40AEF0"/>
 <img src="https://img.shields.io/badge/typescript-ffffff?style={for-the-badge}&logo=typescript&logoColor=#004088"/>
