@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysci&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/><img src="https://img.shields.io/badge/Visual Studio code-17202C?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
+<img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/><img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
 
 <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=#40AEF0"/> <img src="https://img.shields.io/badge/typescript-004088?style=for-the-badge&logo=typescript&logoColor=#004088"/> <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=NestJs&logoColor=#E0234E"/> <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Flask-17202C?style=for-the-badge&logo=Flask&logoColor=#ffffff"/>
 
