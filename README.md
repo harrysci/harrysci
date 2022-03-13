@@ -1,6 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20render&fontSize=90)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20&fontSize=90" />
+</div>
 <!--
 **harrysci/harrysci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
