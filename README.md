@@ -1,7 +1,3 @@
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20&fontSize=90" />
-</div>
 <!--
 **harrysci/harrysci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20&fontSize=90" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysci&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysci&layout=compact&theme=tokyonight)
 </div>
 <div align="center">
