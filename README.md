@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Amazon Aws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=#FF9900"/><img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
 
-  <h3 align="center">🌈 Follow Me 🌈</h3>
+  <h3 align="center">🌈 About Me 🌈</h3>
  
   
 <img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
