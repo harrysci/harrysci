@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h3 align="center">📚 Tech Stack 📚</h3>
-<a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">notion </a>
-  
-<img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/><img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
+<img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
 
 <img src="https://img.shields.io/badge/react-40AEF0?style=for-the-badge&logo=react&logoColor=#40AEF0"/> <img src="https://img.shields.io/badge/typescript-004088?style=for-the-badge&logo=typescript&logoColor=#004088"/> <img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=NestJs&logoColor=#E0234E"/> <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=#F7DF1E"/> <img src="https://img.shields.io/badge/Flask-17202C?style=for-the-badge&logo=Flask&logoColor=#ffffff"/>
 
 <img src="https://img.shields.io/badge/html5-FFCC22?style=for-the-badge&logo=html5&logoColor=#FF9E0F"/> <img src="https://img.shields.io/badge/css3-FFCC22?style=for-the-badge&logo=css3&logoColor=#FFCC22"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=#FFFFFF"/>
 
 <img src="https://img.shields.io/badge/Amazon Aws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=#FF9900"/>
+  <h3 align="center">🌈 Follow Me 🌈</h3>
+  <a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">notion </a>
+  
+<img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
 </div>
