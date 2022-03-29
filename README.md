@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysci&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysci&layout=compact&theme=tokyonight)
 
 <div align="center">
-🌱My Tech🌱
+<h3 align="center">📚 Tech Stack 📚</h3>
 <a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">notion </a>
   
 <img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/><img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=for-the-badge&logo=Visual Studio code&logoColor=#007ACC"/>
