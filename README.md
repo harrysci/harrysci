@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Amazon Aws-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=#FF9900"/>
   <h3 align="center">🌈 Follow Me 🌈</h3>
-  <a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">notion </a>
+ 
   
 <img src="https://img.shields.io/badge/NOTION-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
+   <a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f</a>
 </div>
