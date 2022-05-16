@@ -30,6 +30,5 @@ Here are some ideas to get you started:
  
   
 <div align="center">
-  <img src="https://img.shields.io/badge/Velog-FF9900?style=for-the-badge&logo=Velogs&logoColor=green"/>
-  <div href="https://velog.io/@harrysci"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></div>&nbsp
+  <a href="https://velog.io/@harrysci"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@harrysci"/></a>&nbsp
   </div>
