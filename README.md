@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <h3 align="center">🌈 About Me 🌈</h3>
  
   
-<img src="https://img.shields.io/badge/velog-17202C?style=for-the-badge&logo=notion&logoColor=#ffffff"/>
-   <a href="https://warp-year-bd0.notion.site/0d16c3c7ea374df5b21aa0e93bbd0865?v=1a2b82285ae9451e8c3da9ef076b242f">https://velog.io/@harrysci</a>
-</div>
+<p align="center">
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+ </
