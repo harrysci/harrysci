@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <h3 align="center">🌈 About Me 🌈</h3>
  
   
-<p align="center">
-  <img src="https://img.shields.io/badge/Velog-FF9900?style=for-the-badge&logo=AmazonAws&logoColor=#FF9900"/>
-  <a href="https://velog.io/@harrysci"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Velog-FF9900?style=for-the-badge&logo=Velogs&logoColor=green"/>
+  <div href="https://velog.io/@harrysci"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></div>&nbsp
+  </div>
