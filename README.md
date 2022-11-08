@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysci&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysci&layout=compact&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysci&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysci&layout=compact&theme=tokyonight)
 
 <div align="center">
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://velog.io/@harrysci"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@harrysci"/></a>&nbsp
   </div>
+ -->
